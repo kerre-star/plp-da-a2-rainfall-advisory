@@ -19,7 +19,6 @@ The notebook writes `rainfall_summary.csv` in the working folder.
 
 - Nairobi, Nakuru, Kisumu and Mombasa should plant in **April-May**, their wettest two-month window (265 to 420 mm combined), while Machakos should plant in **November-December** (278 mm) for the short rains.
 - Machakos has **6 dry months** (below 50 mm) against none in Kisumu, so Machakos advice should stress drought-tolerant crops and water conservation.
-- Caution: two Machakos readings (April and September) were missing and replaced with an estimate of **68 mm**, so confirm the Machakos advice against station records before sending it.
 
 ## Files
 
